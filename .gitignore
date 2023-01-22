@@ -1,0 +1,5 @@
+*.txt
+vendor/*
+upload/*
+images/*
+.gitignore
